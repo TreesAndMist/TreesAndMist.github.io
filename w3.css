@@ -151,6 +151,7 @@ after,.w3-row:before,.w3-row-padding:after,.w3-row-padding:before,
 .w3-padding-400{padding-top:64px!important;padding-bottom:400px!important}
 .w3-padding-450{padding-top:64px!important;padding-bottom:450px!important}
 .w3-padding-500{padding-top:64px!important;padding-bottom:500px!important}
+.acg-padding{padding-top:100px!important;padding-bottom:16px!important}
 
 .w3-left{float:left!important}.w3-right{float:right!important}
 .w3-button:hover{color:#000!important;background-color:#ccc!important}
